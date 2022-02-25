@@ -41,3 +41,8 @@
 }
 
 .button1:hover {background: #FFF307}
+
+.footerImage {
+    height: 30px;
+    width: 30px;
+}
