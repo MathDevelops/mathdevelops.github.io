@@ -46,3 +46,11 @@
     height: 30px;
     width: 30px;
 }
+
+.headerText {
+    color: #FFF307;
+}
+
+.headerText:hover {
+    text-decoration: underline;
+}
