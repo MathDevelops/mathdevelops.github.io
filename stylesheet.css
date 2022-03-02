@@ -71,6 +71,7 @@
 
 .link {
     color: #2c74f8;
+    text-decoration: none;
 }
 
 .link:hover {
