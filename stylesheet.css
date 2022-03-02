@@ -68,3 +68,11 @@
 .invisText {
     user-select: none;
 }
+
+.link {
+    color: #2c74f8;
+}
+
+.link:hover {
+    color: #225dc6;
+}
