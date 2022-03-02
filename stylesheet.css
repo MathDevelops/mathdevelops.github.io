@@ -76,4 +76,5 @@
 
 .link:hover {
     color: #225dc6;
+    cursor: pointer;
 }
